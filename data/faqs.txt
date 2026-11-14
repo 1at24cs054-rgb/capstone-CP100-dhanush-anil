@@ -1,0 +1,6 @@
+1|How can I pay college fees?|You can pay college fees through the college fee portal or accounts office.|fees,pay,payment,accounts|Fees
+2|When are exams conducted?|Exam dates are announced on the college notice board and student portal.|exam,exams,date,timetable|Examinations
+3|What are hostel rules?|Students must follow hostel timings, maintain cleanliness, and follow wardens' instructions.|hostel,rules,timing,warden|Hostel
+4|Where can I get my ID card?|Contact the student section to request or collect your college ID card.|id,card,identity,student|Student Services
+5|How do I apply for leave?|Submit a leave application to your class teacher or department office.|leave,absence,permission|Student Services
+6|Which floor is admin block?|1st floor|floor,admin block|Student services
